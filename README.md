@@ -76,11 +76,11 @@ The dataset should be saved in a JSON file (`play_tennis_dataset.json`) in the f
 
 ## File Structure
 
-├── naive_bayes_classifier.py   # Main script containing the classifier implementation
-├── play_tennis_dataset.json    # Dataset file in JSON format
-├── naive_bayes_model.json      # Saved model file (generated after training)
-├── classification_log.txt      # Log file for predictions (generated after testing)
-├── README.md                   # Project documentation
+├── naive_bayes_classifier.py # Main script containing the classifier implementation
+├── play_tennis_dataset.json  # Dataset file in JSON format
+├── naive_bayes_model.json    # Saved model file (generated after training)
+├── classification_log.txt    # Log file for predictions (generated after testing)
+├── README.md                 # Project documentation
 
 
 ---
