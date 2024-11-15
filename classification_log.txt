@@ -1,0 +1,43 @@
+Features: {'Outlook': 'Sunny', 'Temperature': 'Hot', 'Humidity': 'High', 'Wind': 'Weak'}
+Actual Class: No, Predicted Class: No
+
+Features: {'Outlook': 'Sunny', 'Temperature': 'Hot', 'Humidity': 'High', 'Wind': 'Strong'}
+Actual Class: No, Predicted Class: No
+
+Features: {'Outlook': 'Overcast', 'Temperature': 'Hot', 'Humidity': 'High', 'Wind': 'Weak'}
+Actual Class: Yes, Predicted Class: Yes
+
+Features: {'Outlook': 'Rain', 'Temperature': 'Mild', 'Humidity': 'High', 'Wind': 'Weak'}
+Actual Class: Yes, Predicted Class: Yes
+
+Features: {'Outlook': 'Rain', 'Temperature': 'Cool', 'Humidity': 'Normal', 'Wind': 'Weak'}
+Actual Class: Yes, Predicted Class: Yes
+
+Features: {'Outlook': 'Rain', 'Temperature': 'Cool', 'Humidity': 'Normal', 'Wind': 'Strong'}
+Actual Class: No, Predicted Class: Yes
+
+Features: {'Outlook': 'Overcast', 'Temperature': 'Cool', 'Humidity': 'Normal', 'Wind': 'Strong'}
+Actual Class: Yes, Predicted Class: Yes
+
+Features: {'Outlook': 'Sunny', 'Temperature': 'Mild', 'Humidity': 'High', 'Wind': 'Weak'}
+Actual Class: No, Predicted Class: No
+
+Features: {'Outlook': 'Sunny', 'Temperature': 'Cool', 'Humidity': 'Normal', 'Wind': 'Weak'}
+Actual Class: Yes, Predicted Class: Yes
+
+Features: {'Outlook': 'Rain', 'Temperature': 'Mild', 'Humidity': 'Normal', 'Wind': 'Weak'}
+Actual Class: Yes, Predicted Class: Yes
+
+Features: {'Outlook': 'Sunny', 'Temperature': 'Mild', 'Humidity': 'Normal', 'Wind': 'Strong'}
+Actual Class: Yes, Predicted Class: Yes
+
+Features: {'Outlook': 'Overcast', 'Temperature': 'Mild', 'Humidity': 'High', 'Wind': 'Strong'}
+Actual Class: Yes, Predicted Class: Yes
+
+Features: {'Outlook': 'Overcast', 'Temperature': 'Hot', 'Humidity': 'Normal', 'Wind': 'Weak'}
+Actual Class: Yes, Predicted Class: Yes
+
+Features: {'Outlook': 'Rain', 'Temperature': 'Mild', 'Humidity': 'High', 'Wind': 'Strong'}
+Actual Class: No, Predicted Class: No
+
+Accuracy: 92.86%
